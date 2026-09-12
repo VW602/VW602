@@ -84,3 +84,33 @@ Device Validation
 Regression Review
       ↓
 Release
+
+I care about more than getting code to compile. My goal is to build software that is understandable, testable, maintainable, and useful to the people using it.
+
+⸻
+
+What I’m Working Toward
+
+I’m continuing to deepen my skills in native Apple development while building a portfolio of production applications, technical experiments, and original software products.
+
+I’m especially interested in:
+
+* iOS product engineering
+* Swift architecture and concurrency
+* Offline-first applications
+* Mobile game engineering
+* Applied AI development workflows
+* Developer tools and automation
+* Building software from real operational experience
+
+⸻
+
+Connect
+
+🌐 Website: truenorth242.com⁠￼
+
+💻 GitHub: github.com/VW602⁠￼
+
+⸻
+
+Build useful things. Ship them. Learn from the real world. Improve the next version.
